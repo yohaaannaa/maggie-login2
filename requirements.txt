@@ -1,1 +1,2 @@
-streamlit\nfirebase-admin
+streamlit
+firebase-admin
